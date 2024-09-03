@@ -7,5 +7,5 @@ void main() {
   var smallestValue = numberList[0];
   var greatestValue = numberList[numberList.length -1];
   print("Smallest value of the above list: $smallestValue");
-  print("Greatest value of the above list: $greatestValue");
+  print("Greatest value of the above list: $greatestValue"); 
 }
